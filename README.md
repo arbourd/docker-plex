@@ -2,9 +2,7 @@
 
 Plex Media Server, in a container
 
-[![](https://badge.imagelayers.io/arbourd/plex:latest.svg)](https://imagelayers.io/?images=arbourd/plex:latest)
-
-[![](http://dockeri.co/image/arbourd/plex)](https://registry.hub.docker.com/u/arbourd/plex/)
+[![](https://images.microbadger.com/badges/version/arbourd/plex.svg)](http://microbadger.com/images/arbourd/plex "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/arbourd/plex.svg)](http://microbadger.com/images/arbourd/plex "Get your own image badge on microbadger.com")
 
 ## Installation
 
